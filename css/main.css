@@ -1,0 +1,38 @@
+header {
+	min-height: 116px;
+	background-color: #f1f6ff;
+}
+
+.sec1 {
+	min-height: 43px;
+	background-color: #000a52;
+}
+
+.sec2 {
+	min-height: 595px;
+	background-color: #f1f6ff;
+}
+
+.sec3 {
+	min-height: 673px;
+	background-color: #79C4E3;
+}
+
+.sec3-a {
+	color: #7C8074;
+}
+
+.sec4 {
+	min-height: 930px;
+	background-color: #23949B;
+}
+
+.sec5 {
+	min-height: 150px;
+	background-color: lightblue;
+}
+
+footer {
+	min-height: 100px;
+	background-color: #f1f6ff;
+}
